@@ -67,7 +67,7 @@ plugs:
   shmem:
     interface: shared-memory
     private: true
-  chromium-ffmpeg-20260105:
+  chromium-ffmpeg-2026010505:
     interface: content
     target: $SNAP
     default-provider: chromium-ffmpeg
